@@ -8,6 +8,7 @@ Prerequisites:
 4. Make sure you've backed up your DB befor running this!!!
 
 Instruction:
+
 0. Set estimated date of all your sprints to desired sprint end date (on Jira web-board);
 1. Edit script with your Jira data (change board name from 'Algorithm' to your board name);
 2. Edit jiraissue update script part (change '2018-04-07' to your project start date);
