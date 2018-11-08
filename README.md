@@ -4,7 +4,7 @@ SQL-Script that updates some Jira board task change dates in order to distribute
 Prerequisites:
 1. Installed Jira (tested on 6.1);
 2. Access to Jira admin board and Jira DB (script designed to be used with PostgreSQL);
-3. A board with tasks and sprints;
+3. Jira board with sprints, tasks and task costs;
 4. Make sure you've backed up your DB befor running this!!!
 
 Instruction:
